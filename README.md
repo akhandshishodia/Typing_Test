@@ -19,6 +19,6 @@ Once completed, the program will display the typing speed, accuracy, and other r
 #Contributing
 Contributions to the Typing Speed Test project are welcome! If you have any ideas, bug fixes, or improvements, feel free to open an issue or submit a pull request.
 
-#Acknowledgments
+# Acknowledgments
 Special thanks to Prof. Arnab Chakraborty (ISI Kolkata) for their inspiration hat helped in the development of this project.
 
